@@ -1,0 +1,93 @@
+#name-header {
+  margin: 0 0 0.5em 0;
+}
+
+#main-page-mini-bio {
+  text-transform: none;
+}
+
+#main-bio {
+
+
+}
+
+li {
+  list-style: none;
+}
+
+.features li {
+  font-size: 1em;
+}
+
+.iconic {
+  display: inline-block;
+}
+
+.devicon {
+  font-size: 30px;
+
+}
+
+
+#skills-label {
+  display: inline-block;
+  font: inherit;
+  font-weight: 800;
+  font-family: "Open Sans", Helvetica, sans-serif;
+  font-size: 1.5em;
+  letter-spacing: 0;
+}
+
+
+#skills-header {
+  font-size: 1.5em;
+}
+
+.test {
+  display: inline-block;
+}
+
+.test a {
+  display: inline-block;
+  margin-right: 1.5em;
+}
+
+
+
+
+
+
+header.language-header {
+  margin: 0 0 0 0;
+}
+
+.button.special.rohaan-blue {
+  background-color: #3A5894;
+
+}
+
+.wrapper.style1.rohaan-blue {
+  background-color: #60AFFE;
+}
+
+#navigate-to-page-sec {
+  border: none;
+  text-transform: none;
+}
+
+#navigate-to-page-sec a {
+  cursor: pointer;
+}
+
+ul.icons.major {
+  display: none;
+}
+
+#pacman {
+height: 500px;
+}
+
+#profile-pic {
+  margin-bottom: 10px;
+  display: block;
+}
